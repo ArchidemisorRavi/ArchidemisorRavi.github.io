@@ -46,3 +46,9 @@ Your Google Site is now live through GitHub Pages! 😊
 
 ---
 
+## 🎥 Video Reference
+
+If you prefer watching a video tutorial, follow this helpful YouTube guide:  
+👉 [Publish Google Site Through GitHub for Free](https://youtu.be/RIFZSLzYfFk?si=fPUvcNRwrW_NK2B0)
+
+---
